@@ -6,6 +6,11 @@ const routes = {
         grid: '/ecommerce/gridproducts',
         page: '/ecommerce/product',
     },
+    user: {
+        list: '/user',
+        add: '/user/add',
+        edit: '/user/edit',
+    },
 };
 
 export default routes;
